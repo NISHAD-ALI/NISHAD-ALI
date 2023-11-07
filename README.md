@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NISHAD-ALI
-- 👀 I’m interested in building static,dynamic and futuristic website
+- 👀 I’m interested in building static,dynamic and futuristic websites
 - 🌱 I’m currently learning MERN Full stack development
 - 🖌  I'm also a creative and futuristic UI/UX Designer
 - 📫 How to reach me - Mail me @ Nishadalichenadan@gmail.com
