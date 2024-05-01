@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishad Ali</h1>
 <h3 align="center">MERN Developer | Building Interactive and Dynamic Web Experiences</h3>
 
-- 🌱 I’m currently learning **Cucumber, Protractor, Jasmine, Mocha.JS,Chai.JS, karma**
+- 🌱 I’m currently building an open source web application called **helpingHands**
 
 - Visit my personal portfolio [https://nishadalichenadan.netlify.app/](https://nishadalichenadan.netlify.app/)
 
