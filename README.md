@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishad Ali</h1>
 <h3 align="center">MERN Developer | Building Interactive and Dynamic Web Experiences</h3>
 
-- 🌱 I’m currently building an open source web application called **helpingHands**
+- 🌱 I turn exciting ideas into creative Web experiences 
 
 - Visit my personal portfolio https://nishadali.vercel.app
 
