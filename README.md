@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently building an open source web application called **helpingHands**
 
-- Visit my personal portfolio [https://nishadalichenadan.netlify.app/](https://nishadalichenadan.netlify.app/)
+- Visit my personal portfolio https://nishadali.vercel.app/ 
 
 - 📫 How to reach me **nishadalichenadan@gmail.com**
 
